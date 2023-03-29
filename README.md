@@ -10,4 +10,4 @@ Each second, the ant walks one step forward and, when it walks into an open port
 When the ant enters an open portal, it immediatly closes.
 When the ant walks over a closed portal, it opens again.
 
-![teleporting-ant-example.drawio.png]()
+![](teleporting-ant-example.drawio.png)
